@@ -1,2 +1,2 @@
 # Stepik-ML
-Data Science Noteooks from Stepik-ML course
+Data Science Jupiter Notebooks from Stepik-ML course
